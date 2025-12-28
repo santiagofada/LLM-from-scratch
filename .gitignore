@@ -11,3 +11,11 @@
 
 # Carpeta .idea de PyCharm
 .idea/
+
+# External/reference code
+resources/
+
+# Jupyter
+.ipynb_checkpoints/
+
+
