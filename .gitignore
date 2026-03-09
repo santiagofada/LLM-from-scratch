@@ -7,8 +7,8 @@
 *.pyc
 *.pyo
 *.pyd
-
-
+*.pth
+.pdf
 # Carpeta .idea de PyCharm
 .idea/
 
